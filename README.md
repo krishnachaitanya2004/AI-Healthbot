@@ -53,10 +53,14 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-
+![Screenshot](images/chat1.png)
+![Screenshot](images/chat2.png)
+![Screenshot](images/chat3.png)
+![Screenshot](images/chat4.png)
 ---
 
 ## 🛠️ Future Enhancements
+- 🔬 Development of own LLM
 - 🗣️ Voice-based interaction
 - 🌎 Multilingual support
 
