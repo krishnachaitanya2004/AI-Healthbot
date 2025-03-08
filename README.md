@@ -28,7 +28,8 @@ Welcome to **HealthBot**, your AI-powered healthcare assistant! 🤖💙 Designe
 ### Steps:
 ```bash
 # Clone the repository
-git clone https://github.com/krishnachaitanya2004/AI-Healthbot.git  
+git clone https://github.com/krishnachaitanya2004/AI-Healthbot.git
+cd AI-Healthbot
 
 # Create a virtual environment and activate it
 python -m venv venv
